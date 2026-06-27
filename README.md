@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on making  A 3D Modeller by python<br>👯 I’m looking to collaborate on Linkdin <br>🤝 I’m looking for help with sharpen my problem solving skill<br>🌱 I’m currently learningAI driven learning of python including LLM APIS<br>💬 Ask me about debgging and Web development stuffs<br>⚡ Fun fact i love to rest but debugging never let me do this
+🔭 I’m currently working on making  A 3D Modeller by python<br>👯 I’m looking to collaborate on Linkdin <br>🤝 I’m looking for help with sharpen my problem solving skill<br>🌱 I’m currently learningAI driven learning of python including LLM APIS<br>💬 Ask me about debugging and Web development stuffs<br>⚡ Fun fact i love to rest but debugging never let me do this
 
 
 ## 🌐 Socials:
