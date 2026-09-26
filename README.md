@@ -2,6 +2,10 @@
 
 <br/>
 
+ <p align="center">
+      <a href="https://github.com/Anuradha011?tab=repositories" target="_main"> <img src="cat.webp" width="50"/></a> 
+      </p>
+
 # Anuradha Padhan
 
 **Full-Stack Engineer** · Building at **Eduplor India** · Odisha, India 🇮🇳
