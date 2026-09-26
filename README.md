@@ -3,7 +3,7 @@
 <br/>
 
  <p align="center">
-      <a href="https://github.com/Anuradha011?tab=repositories" target="_main"> <img src="cat.webp" width="100"/></a> 
+      <a href="https://github.com/Anuradha011?tab=repositories" target="_main"> <img src="cat.webp" width="80"/></a> 
       </p>
 
 # Anuradha Padhan
