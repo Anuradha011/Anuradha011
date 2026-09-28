@@ -13,7 +13,7 @@
 <br/>
 
 <img src="https://img.shields.io/badge/Software%20Engineer-6366f1?style=flat-square"/>
-<img src="https://img.shields.io/badge/Self--Hosting-8b5cf6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Backend engineer-8b5cf6?style=flat-square"/>
 <img src="https://img.shields.io/badge/Open%20to%20Freelance-ec4899?style=flat-square"/>
 
 <br/><br/>
