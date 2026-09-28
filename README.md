@@ -8,7 +8,7 @@
 
 # Anuradha Padhan
 
-**Full-Stack Engineer** · Building at **Eduplor India** · Odisha, India 🇮🇳
+**Full-Stack Engineer** · Hydrabad , India 🇮🇳
 
 <br/>
 
