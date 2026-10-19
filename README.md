@@ -29,12 +29,11 @@
 <br/>
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,django,fastapi,nodejs,tailwind,postgres,redis,docker, &theme=light&perline=10"/>
-
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,tailwind,postgres,redis,docker,cloudflare,linux,langchain,langgraph,LLM,RAG&theme=light&perline=10"/><br/>
+ <br/>
 </div>
 
-<br/><br/>
+</div><br/><br/>
 
 
 <br/>
