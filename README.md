@@ -30,7 +30,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,django,fastapi,nodejs,tailwind,postgres,redis,docker,LLM &theme=light&perline=10"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,django,fastapi,nodejs,tailwind,postgres,redis,docker,LLM, &theme=light&perline=10"/>
 
 </div>
 
