@@ -31,6 +31,8 @@
 <div align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,tailwind,postgres,redis,docker,cloudflare,linux,langchain,langgraph,LLM,RAG&theme=light&perline=10"/><br/>
  <br/>
+ <img src="https://skillicons.dev/icons?i=LLM,nextjs,ts,nodejs,tailwind,postgres,redis,docker,cloudflare,linux,langchain,langgraph,LLM,RAG&theme=light&perline=10"/><br/>
+ <br/>
 </div>
 
 </div><br/><br/>
